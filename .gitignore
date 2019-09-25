@@ -94,6 +94,9 @@ ENV/
 .DS_Store
 ._*
 
+# Singer files
+*.txt
+
 /venv--*
 /venv
 /tests/migrations/artifacts
